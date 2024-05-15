@@ -1,0 +1,9 @@
+# Bỏ qua tất cả các tệp và thư mục trong thư mục .vs/
+.vs/
+
+# Bỏ qua các tệp có phần mở rộng .dll
+*.dll
+
+# Bỏ qua thư mục bin và obj
+bin/
+obj/
